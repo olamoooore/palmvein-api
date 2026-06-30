@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "PalmController",
+    "Method": "Close",
+    "RelativePath": "api/palm/close",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmController",
+    "Method": "Init",
+    "RelativePath": "api/palm/init",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmController",
+    "Method": "Match",
+    "RelativePath": "api/palm/match",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmController",
+    "Method": "OpenDevice",
+    "RelativePath": "api/palm/open",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmController",
+    "Method": "Register",
+    "RelativePath": "api/palm/register/{name}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

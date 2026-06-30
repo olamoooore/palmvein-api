@@ -1,0 +1,185 @@
+Logone start at : 2025-07-29 11:17:11
+[2025-07-29 11:17:11.649][P:24464/T:28868][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-29 11:17:11.707][P:24464/T:28868][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-29 11:17:11.758][P:24464/T:28868][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+Logone start at : 2025-07-29 11:23:27
+[2025-07-29 11:23:27.026][P: 9820/T: 9588][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-29 11:23:27.030][P: 9820/T: 9588][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-29 11:23:27.037][P: 9820/T: 9588][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-29 11:23:35.267][P: 9820/T: 9588][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-29 11:24:46.142][P: 9820/T: 6716][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:ali,uiIdx:0
+[2025-07-29 12:34:20.212][P: 9820/T: 3584][ERR][ctgpvdeviceapi.cpp][CloseDevice][line:416]sn:M221203419400319 success to close the device
+[2025-07-29 12:34:20.213][P: 9820/T: 3584][DBG][sdpvd310api.cpp][SD_API_Uninit][line:285]API去初始化
+[2025-07-29 12:34:20.224][P: 9820/T: 3584][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_UnInit][line:257]unInit success
+Logone start at : 2025-07-29 16:17:12
+[2025-07-29 16:17:12.960][P:10884/T: 5208][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-29 16:17:12.963][P:10884/T: 5208][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-29 16:17:12.965][P:10884/T: 5208][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-29 16:17:18.371][P:10884/T: 5208][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-29 16:17:43.027][P:10884/T: 2852][ERR][sdpvd310api.cpp][GetImage][line:98]超时
+[2025-07-29 16:17:43.040][P:10884/T: 1152][ERR][sdpvd310api.cpp][Register][line:725]取消采集
+[2025-07-29 16:17:55.268][P:10884/T: 5208][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:ali,uiIdx:0
+Logone start at : 2025-07-29 16:24:24
+[2025-07-29 16:24:24.165][P:12376/T:11708][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-29 16:24:24.169][P:12376/T:11708][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-29 16:24:24.171][P:12376/T:11708][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-29 16:24:28.999][P:12376/T: 2060][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-29 16:25:08.022][P:12376/T: 9512][ERR][sdpvd310api.cpp][GetImage][line:98]超时
+[2025-07-29 16:25:08.053][P:12376/T:10784][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:ali,uiIdx:0
+Logone start at : 2025-07-29 16:28:18
+[2025-07-29 16:28:18.859][P: 3856/T: 5664][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-29 16:28:18.862][P: 3856/T: 5664][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-29 16:28:18.864][P: 3856/T: 5664][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-29 16:28:25.418][P: 3856/T:12744][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-29 16:29:04.491][P: 3856/T:12744][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:ali,uiIdx:0
+Logone start at : 2025-07-29 16:33:48
+[2025-07-29 16:33:48.835][P:12348/T: 6556][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-29 16:33:48.845][P:12348/T: 6556][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-29 16:33:48.848][P:12348/T: 6556][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-29 16:33:55.724][P:12348/T: 6556][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-29 16:34:21.815][P:12348/T: 8644][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:ali,uiIdx:0
+[2025-07-29 16:35:05.474][P:12348/T: 6832][ERR][ctgpvdeviceapi.cpp][CloseDevice][line:416]sn:M221203419400319 success to close the device
+[2025-07-29 16:35:05.475][P:12348/T: 6832][DBG][sdpvd310api.cpp][SD_API_Uninit][line:285]API去初始化
+[2025-07-29 16:35:05.512][P:12348/T: 6832][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_UnInit][line:257]unInit success
+Logone start at : 2025-07-30 09:43:36
+[2025-07-30 09:43:36.788][P: 8420/T: 4756][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 09:43:36.795][P: 8420/T: 4756][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 09:43:36.801][P: 8420/T: 4756][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 09:43:41.886][P: 8420/T: 4756][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 09:43:59.477][P: 8420/T: 8184][ERR][ctgpvdeviceapi.cpp][CloseDevice][line:416]sn:M221203419400319 success to close the device
+[2025-07-30 09:43:59.478][P: 8420/T: 8184][DBG][sdpvd310api.cpp][SD_API_Uninit][line:285]API去初始化
+[2025-07-30 09:43:59.530][P: 8420/T: 8184][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_UnInit][line:257]unInit success
+Logone start at : 2025-07-30 10:15:32
+[2025-07-30 10:15:32.609][P: 4176/T:10796][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 10:15:32.619][P: 4176/T:10796][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 10:15:32.623][P: 4176/T:10796][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 10:15:39.430][P: 4176/T:12304][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 10:16:17.404][P: 4176/T:12304][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:83285100,uiIdx:0
+Logone start at : 2025-07-30 10:21:33
+[2025-07-30 10:21:33.921][P: 7308/T: 5640][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 10:21:33.924][P: 7308/T: 5640][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 10:21:33.936][P: 7308/T: 5640][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 10:21:40.294][P: 7308/T: 5640][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 10:22:01.822][P: 7308/T: 5640][ERR][ctgpvserviceapi.cpp][Service_ExtractFeature][line:827]The server returns  error message id=-2010,sdk err message=参数错误
+[2025-07-30 10:22:04.555][P: 7308/T: 5640][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 10:31:47
+[2025-07-30 10:31:47.056][P: 6772/T:12480][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 10:31:47.061][P: 6772/T:12480][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 10:31:47.063][P: 6772/T:12480][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 10:31:52.627][P: 6772/T:12480][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 10:32:30.442][P: 6772/T: 7936][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 10:50:14
+[2025-07-30 10:50:14.463][P: 4692/T: 1720][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 10:50:14.465][P: 4692/T: 1720][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 10:50:14.467][P: 4692/T: 1720][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 10:50:19.289][P: 4692/T: 2444][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 10:50:53.089][P: 4692/T: 1720][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 11:01:12
+[2025-07-30 11:01:12.714][P: 3504/T: 6840][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 11:01:12.717][P: 3504/T: 6840][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 11:01:12.719][P: 3504/T: 6840][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 11:01:18.767][P: 3504/T: 5144][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 11:01:57.146][P: 3504/T: 9452][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 11:18:26
+[2025-07-30 11:18:26.490][P: 6624/T: 2144][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 11:18:26.491][P: 6624/T: 2144][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 11:18:26.493][P: 6624/T: 2144][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 11:18:31.060][P: 6624/T:10020][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 11:18:51.511][P: 6624/T:12968][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 11:20:28
+[2025-07-30 11:20:28.546][P: 2836/T:11064][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 11:20:28.548][P: 2836/T:11064][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 11:20:28.550][P: 2836/T:11064][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 11:20:32.787][P: 2836/T: 8452][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 11:20:45.247][P: 2836/T: 8452][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 12:37:30
+[2025-07-30 12:37:30.317][P: 2192/T: 7956][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 12:37:30.398][P: 2192/T: 7956][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 12:37:30.488][P: 2192/T: 7956][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 12:37:36.466][P: 2192/T: 7956][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 12:38:04.176][P: 2192/T: 8232][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 12:46:16
+[2025-07-30 12:46:16.174][P: 8076/T: 4648][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 12:46:16.176][P: 8076/T: 4648][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 12:46:16.177][P: 8076/T: 4648][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 12:46:22.898][P: 8076/T: 7228][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 12:46:51.066][P: 8076/T: 4648][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+[2025-07-30 12:47:24.109][P: 8076/T: 4648][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:83285100,uiIdx:1
+Logone start at : 2025-07-30 14:05:32
+[2025-07-30 14:05:32.172][P: 5220/T: 3328][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 14:05:32.175][P: 5220/T: 3328][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 14:05:32.178][P: 5220/T: 3328][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 14:05:39.278][P: 5220/T:10872][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 14:06:02.887][P: 5220/T:10872][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:0,ID:87654321,uiIdx:0
+Logone start at : 2025-07-30 14:16:23
+[2025-07-30 14:16:23.193][P: 8180/T: 5468][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 14:16:23.195][P: 8180/T: 5468][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 14:16:23.196][P: 8180/T: 5468][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 14:16:27.945][P: 8180/T: 5468][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+Logone start at : 2025-07-30 15:44:44
+[2025-07-30 15:44:44.412][P: 6548/T:11636][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 15:44:44.415][P: 6548/T:11636][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 15:44:44.417][P: 6548/T:11636][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 15:44:51.306][P: 6548/T:12252][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+Logone start at : 2025-07-30 16:11:12
+[2025-07-30 16:11:12.853][P:11396/T:12148][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 16:11:12.855][P:11396/T:12148][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 16:11:12.857][P:11396/T:12148][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 16:11:18.154][P:11396/T:10540][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+Logone start at : 2025-07-30 16:14:48
+[2025-07-30 16:14:48.983][P: 3620/T: 7708][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 16:14:48.990][P: 3620/T: 7708][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 16:14:48.993][P: 3620/T: 7708][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 16:14:53.160][P: 3620/T:11760][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+Logone start at : 2025-07-30 16:20:13
+[2025-07-30 16:20:13.907][P: 9976/T: 1188][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 16:20:13.908][P: 9976/T: 1188][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 16:20:13.910][P: 9976/T: 1188][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 16:20:23.072][P: 9976/T: 1188][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+Logone start at : 2025-07-30 16:47:25
+[2025-07-30 16:47:25.211][P: 9324/T:12228][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 16:47:25.215][P: 9324/T:12228][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 16:47:25.217][P: 9324/T:12228][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 16:47:31.086][P: 9324/T:13064][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+Logone start at : 2025-07-30 17:10:14
+[2025-07-30 17:10:14.278][P:11616/T:11096][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 17:10:14.280][P:11616/T:11096][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 17:10:14.282][P:11616/T:11096][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 17:10:20.157][P:11616/T:11096][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 17:11:14.167][P:11616/T: 4384][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:0
+Logone start at : 2025-07-30 17:27:10
+[2025-07-30 17:27:10.573][P: 4696/T:11104][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 17:27:10.577][P: 4696/T:11104][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 17:27:10.584][P: 4696/T:11104][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 17:27:15.992][P: 4696/T: 1112][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 17:27:59.860][P: 4696/T: 8244][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:0
+Logone start at : 2025-07-30 17:34:29
+[2025-07-30 17:34:29.777][P: 7384/T: 9612][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 17:34:29.779][P: 7384/T: 9612][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 17:34:29.781][P: 7384/T: 9612][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 17:34:36.487][P: 7384/T:11328][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 17:36:15.986][P: 7384/T: 9612][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:83543235,uiIdx:0
+[2025-07-30 17:36:16.044][P: 7384/T:13884][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:1
+Logone start at : 2025-07-30 17:38:41
+[2025-07-30 17:38:41.270][P: 3224/T:12116][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 17:38:41.271][P: 3224/T:12116][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 17:38:41.274][P: 3224/T:12116][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 17:38:46.565][P: 3224/T:12116][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 17:39:17.264][P: 3224/T:10136][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:83543235,uiIdx:0
+[2025-07-30 17:39:17.312][P: 3224/T:12116][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:1
+[2025-07-30 17:42:42.365][P: 3224/T: 8456][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:83543235,uiIdx:0
+[2025-07-30 17:42:42.409][P: 3224/T: 8456][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:1
+Logone start at : 2025-07-30 18:03:21
+[2025-07-30 18:03:21.809][P:11284/T: 5104][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 18:03:21.814][P:11284/T: 5104][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 18:03:21.820][P:11284/T: 5104][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 18:03:26.474][P:11284/T: 5104][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 18:03:54.808][P:11284/T:10176][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:83543235,uiIdx:0
+[2025-07-30 18:03:54.866][P:11284/T: 7696][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:1
+Logone start at : 2025-07-30 18:13:16
+[2025-07-30 18:13:16.693][P:13988/T: 4436][DBG][sdpvd310api.cpp][SD_API_Init][line:258]API初始化
+[2025-07-30 18:13:16.695][P:13988/T: 4436][ERR][ctgpvdeviceapi.cpp][TGPVDeviceAPI_Init][line:187]device version:0.2.0.10
+[2025-07-30 18:13:16.697][P:13988/T: 4436][ERR][ctgpvserviceapi.cpp][ServiceAPI_Init][line:715]server version:0.0.0.78
+[2025-07-30 18:13:20.451][P:13988/T: 9036][ERR][ctgpvdeviceapi.cpp][OpenDevice][line:394]sn:M221203419400319 open dev success
+[2025-07-30 18:13:43.882][P:13988/T: 9036][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:83543235,uiIdx:0
+[2025-07-30 18:13:43.920][P:13988/T: 4436][ERR][ctgpvserviceapi.cpp][Service_AddTmpl][line:1274]添加用户模板成功 groupid:1,ID:99999999,uiIdx:1

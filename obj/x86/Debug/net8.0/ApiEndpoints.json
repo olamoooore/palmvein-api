@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "CloseDevice",
+    "RelativePath": "api/Palm/close",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "Init",
+    "RelativePath": "api/Palm/init",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "Match",
+    "RelativePath": "api/Palm/match",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "OpenDevice",
+    "RelativePath": "api/Palm/open",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "Register",
+    "RelativePath": "api/Palm/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mobile",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "TestOdooConnection",
+    "RelativePath": "api/Palm/test-odoo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PalmScannerAPI.Controllers.PalmController",
+    "Method": "VerifyMobileTemplate",
+    "RelativePath": "api/Palm/verify-mobile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mobile",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

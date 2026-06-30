@@ -1,0 +1,80 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "PalmScannerAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/palm/init": {
+      "post": {
+        "tags": [
+          "Palm"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/palm/open": {
+      "post": {
+        "tags": [
+          "Palm"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/palm/register/{name}": {
+      "post": {
+        "tags": [
+          "Palm"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/palm/match": {
+      "post": {
+        "tags": [
+          "Palm"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/palm/close": {
+      "post": {
+        "tags": [
+          "Palm"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

@@ -1,0 +1,175 @@
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\appsettings.Development.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\appsettings.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.staticwebassets.endpoints.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.exe
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.deps.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.runtimeconfig.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.AssemblyReference.cache
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfoInputs.cache
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfo.cs
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\scopedcss\bundle\PalmScannerAPI.styles.css
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScan.95B24971.Up2Date
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\refint\PalmScannerAPI.dll
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.genruntimeconfig.cache
+C:\Users\Ammarr\OneDrive\Desktop\Internship\PalmScannerAPI\obj\x86\Debug\net8.0\ref\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.exe
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.deps.json
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.runtimeconfig.json
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\PalmScannerAPI\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\scopedcss\bundle\PalmScannerAPI.styles.css
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScan.95B24971.Up2Date
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\refint\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\PalmScannerAPI.genruntimeconfig.cache
+C:\Users\admin\Desktop\PalmScannerAPI\obj\x86\Debug\net8.0\ref\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\PalmScannerAPI.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\PalmScannerAPI.exe
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\PalmScannerAPI.deps.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\PalmScannerAPI.runtimeconfig.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\scopedcss\bundle\PalmScannerAPI.styles.css
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScan.95B24971.Up2Date
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\refint\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\PalmScannerAPI.genruntimeconfig.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing\obj\x86\Debug\net8.0\ref\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.exe
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.deps.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.runtimeconfig.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\scopedcss\bundle\PalmScannerAPI.styles.css
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScan.95B24971.Up2Date
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\refint\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.genruntimeconfig.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 30-7-2025\obj\x86\Debug\net8.0\ref\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.exe
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.deps.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.runtimeconfig.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\bin\x86\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.AssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\scopedcss\bundle\PalmScannerAPI.styles.css
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScan.95B24971.Up2Date
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\refint\PalmScannerAPI.dll
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.pdb
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\PalmScannerAPI.genruntimeconfig.cache
+C:\Users\admin\Desktop\PalmScannerAPI-Testing 31-7-2025\obj\x86\Debug\net8.0\ref\PalmScannerAPI.dll
